@@ -1,2 +1,2 @@
 # Projeto-de-Rgressao-Linear
- Projeto de porg
+ Projeto de Progressão Linear para uma loja.
